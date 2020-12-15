@@ -18,10 +18,8 @@ const Sandim = {
         backEnd: ["Nodejs", "Express", "Python", "C#", ".NET Core", "Java", "Laravel", "Adianti"],
         fronEnd: ["angular(2)", "VueJs", "Bootstrap", "VuetiFy", "Materialize", ],
         database: ["mongo", "mySql", "SQLite", "PostgreSQL"],
-        misc: ["Socket.IO", "Docker"],
+        misc: ["Socket.IO", "Docker", "TelegranAPI"],
         SO: ["Windows", "Linux"]
     }
 }
 ```
-
-
