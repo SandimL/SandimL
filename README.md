@@ -17,7 +17,7 @@ const Sandim = {
         interests: ["GoLang", "Flutter", "Elixir", "GCP", "AWS", "Jenkins", "K8S", "ATDD", "DDD", "BDD"],
         backEnd: ["Nodejs", "Express", "Python", "C#", "Java", "Laravel", "Adianti", "WPF"],
         fronEnd: ["angular(2)", "VueJs", "Bootstrap", "VuetiFy", "Materialize", "ElectronJs"],
-        database: ["mongo", "mySql", "SQLite", "PostgreSQL"],
+        database: ["mongo", "MySql", "SQLite", "PostgreSQL"],
         misc: ["Socket.IO", "Docker", "TelegranAPI"],
         SO: ["Windows", "Linux"]
     }
