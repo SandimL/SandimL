@@ -15,8 +15,8 @@ const Sandim = {
     askMeAbout: ["Web dev", "Tech", "Desktop dev"],
     technologies:{
         interests: ["GoLang", "Flutter", "Elixir", "GCP", "AWS", "Jenkins", "K8S", "ATDD", "DDD", "BDD"],
-        backEnd: ["Nodejs", "Express", "Python", "C#", ".NET Core", "Java", "Laravel", "Adianti"],
-        fronEnd: ["angular(2)", "VueJs", "Bootstrap", "VuetiFy", "Materialize", ],
+        backEnd: ["Nodejs", "Express", "Python", "C#", "Java", "Laravel", "Adianti", "WPF"],
+        fronEnd: ["angular(2)", "VueJs", "Bootstrap", "VuetiFy", "Materialize"],
         database: ["mongo", "mySql", "SQLite", "PostgreSQL"],
         misc: ["Socket.IO", "Docker", "TelegranAPI"],
         SO: ["Windows", "Linux"]
