@@ -1,16 +1,27 @@
-### Hi there 👋
+<img align='right' src="https://i.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.webp" width="350">
 
-<!--
-**SandimL/SandimL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Eu sou Lucas Sandim 
 
-Here are some ideas to get you started:
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-sandim-59246bb0/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## "_Severino_" Developer 
+
+### A little more about me...  
+
+
+```javascript
+const Sandim = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["Web dev", "Tech", "Desktop dev"],
+    technologies:{
+        interests: ["GoLang", "Flutter", "Elixir", "GCP", "AWS", "Jenkins", "K8S", "ATDD", "DDD", "BDD"],
+        backEnd: ["Nodejs", "Express", "Python", "C#", ".NET Core", "Java", "Laravel", "Adianti"],
+        fronEnd: ["angular(2)", "VueJs", "Bootstrap", "VuetiFy", "Materialize", ],
+        database: ["mongo", "mySql", "SQLite", "PostgreSQL"],
+        misc: ["Socket.IO", "Docker"],
+        SO: ["Windows", "Linux"]
+    }
+}
+```
+
+
