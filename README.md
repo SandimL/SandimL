@@ -10,8 +10,7 @@
 
 
 ```javascript
-const Sandim = {
-    name: "Lucas Sandim",
+const Lucas_Sandim = {
     pronouns: "He" | "Him",
     askMeAbout: ["Web dev", "Tech", "Desktop dev"],
     technologies:{
