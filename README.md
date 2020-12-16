@@ -1,6 +1,6 @@
 <img align='right' src="https://i.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.webp" width="350">
 
-## Eu sou Lucas Sandim 
+## Olá! Bem vindo ao meu GitHub 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-sandim-59246bb0/)
 
@@ -11,6 +11,7 @@
 
 ```javascript
 const Sandim = {
+    name: "Lucas Sandim",
     pronouns: "He" | "Him",
     askMeAbout: ["Web dev", "Tech", "Desktop dev"],
     technologies:{
