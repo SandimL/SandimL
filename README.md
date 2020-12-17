@@ -1,6 +1,6 @@
 <img align='right' src="https://i.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.webp" width="350">
 
-## Olá! Bem vindo ao meu GitHub 
+## Hi! Welcome to my GitHub
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-sandim-59246bb0/)
 
@@ -18,6 +18,7 @@ const Lucas_Sandim = {
         backEnd: ["Nodejs", "Express", "Python", "C#", "Java", "Laravel", "Adianti", "WPF"],
         fronEnd: ["angular(2)", "VueJs", "Bootstrap", "VuetiFy", "Materialize", "ElectronJs"],
         database: ["mongo", "MySql", "SQLite", "PostgreSQL"],
+        tools: ["CorelDraw"], 
         misc: ["Socket.IO", "Docker", "TelegranAPI"],
         SO: ["Windows", "Linux"]
     }
