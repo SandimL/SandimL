@@ -24,3 +24,19 @@ const Lucas_Sandim = {
     }
 }
 ```
+
+
+<br >
+
+## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=sandim&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sandiml&theme=dark" width="45%" >
+
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sandiml&bg_color=151515&color=F8D866&line=79ff97&point=FFFFFF&hide_border=true" />
+</a>
+
+<br>
