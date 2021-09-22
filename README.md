@@ -19,7 +19,7 @@ const Lucas_Sandim = {
         fronEnd: ["angular(2)", "VueJs", "Bootstrap", "VuetiFy", "Materialize", "ElectronJs", "WPF"],
         database: ["mongo", "MySql", "SQLite", "PostgreSQL", "MSQLServer"],
         tools: ["CorelDraw"], 
-        misc: ["Socket.IO", "Docker", "TelegranAPI", "DiscordApi"],
+        misc: ["Socket.IO", "Docker", "TelegramApi", "DiscordApi"],
         SO: ["Windows", "Linux"]
     }
 }
