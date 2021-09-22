@@ -16,8 +16,8 @@ const Lucas_Sandim = {
     technologies:{
         interests: ["GoLang", "Flutter", "Elixir", "GCP", "AWS", "Jenkins", "K8S", "TDD", "DDD", "BDD", "Clean Arch"],
         backEnd: ["Nodejs", "Express", "Python", "C#", "Java", "Laravel", "AdiantiFramework"],
-        fronEnd: ["angular(2)", "VueJs", "Bootstrap", "VuetiFy", "Materialize", "ElectronJs", "WPF"],
-        database: ["mongo", "MySql", "SQLite", "PostgreSQL", "MSQLServer"],
+        fronEnd: ["Angular(2)", "VueJs", "Bootstrap", "VuetiFy", "Materialize", "ElectronJs", "WPF"],
+        database: ["Mongo", "MySql", "SQLite", "PostgreSQL", "MSQLServer"],
         tools: ["CorelDraw"], 
         misc: ["Socket.IO", "Docker", "TelegramApi", "DiscordApi"],
         SO: ["Windows", "Linux"]
