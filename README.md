@@ -14,7 +14,7 @@ const Lucas_Sandim = {
     pronouns: "He" | "Him",
     askMeAbout: ["Web dev", "Tech", "Desktop dev"],
     technologies:{
-        interests: ["GoLang", "Flutter", "Elixir", "GCP", "AWS", "Jenkins", "K8S", "ATDD", "DDD", "BDD"],
+        interests: ["GoLang", "Flutter", "Elixir", "GCP", "AWS", "Jenkins", "K8S", "TDD", "DDD", "BDD"],
         backEnd: ["Nodejs", "Express", "Python", "C#", "Java", "Laravel", "AdiantiFramework"],
         fronEnd: ["angular(2)", "VueJs", "Bootstrap", "VuetiFy", "Materialize", "ElectronJs", "WPF"],
         database: ["mongo", "MySql", "SQLite", "PostgreSQL", "MSQLServer"],
