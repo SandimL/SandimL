@@ -15,11 +15,11 @@ const Lucas_Sandim = {
     askMeAbout: ["Web dev", "Tech", "Desktop dev"],
     technologies:{
         interests: ["GoLang", "Flutter", "Elixir", "GCP", "AWS", "Jenkins", "K8S", "ATDD", "DDD", "BDD"],
-        backEnd: ["Nodejs", "Express", "Python", "C#", "Java", "Laravel", "Adianti", "WPF"],
-        fronEnd: ["angular(2)", "VueJs", "Bootstrap", "VuetiFy", "Materialize", "ElectronJs"],
-        database: ["mongo", "MySql", "SQLite", "PostgreSQL"],
+        backEnd: ["Nodejs", "Express", "Python", "C#", "Java", "Laravel", "AdiantiFramework"],
+        fronEnd: ["angular(2)", "VueJs", "Bootstrap", "VuetiFy", "Materialize", "ElectronJs", "WPF"],
+        database: ["mongo", "MySql", "SQLite", "PostgreSQL", "MSQLServer"],
         tools: ["CorelDraw"], 
-        misc: ["Socket.IO", "Docker", "TelegranAPI"],
+        misc: ["Socket.IO", "Docker", "TelegranAPI", "DiscordApi"],
         SO: ["Windows", "Linux"]
     }
 }
