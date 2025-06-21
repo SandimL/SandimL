@@ -48,5 +48,11 @@ const lucasSandim = {
 ### 📊 GitHub Stats
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandiml&show_icons=true&theme=dark)
 
-### 🌟 Featured Projects
+### 🌟 Featured Projects & Repositories
 - **[TherapyFlow](https://therapyflow.com.br)** - Clinical management platform for healthcare professionals
+- **[PowerShell Automatic Installation](https://github.com/SandimL/Powershell-automatic-installation)** - PowerShell script for automated program installation using Chocolatey
+- **[Agente Clisitef](https://github.com/SandimL/Agente-Clisitef)** - Payment gateway integration agent for Sitef payment processing
+- **[Trader BOT](https://github.com/SandimL/Trader-BOT)** - Automated trading bot implementation
+- **[Darubo Discord Bot](https://github.com/SandimL/Darubo-discord-bot)** - Discord bot to beautify code formatting in message channels
+
+
