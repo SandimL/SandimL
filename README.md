@@ -11,7 +11,7 @@ Full-stack developer with **7+ years** in large-scale enterprise software. I'm t
 
 📍 Campo Grande, MS — Brazil · 🇧🇷 Portuguese (native) · 🇺🇸 English (Advanced)
 
-> 💼 My primary, day-to-day work is enterprise software hosted on **[GitLab](https://gitlab.com/sandiml)** — this GitHub holds personal projects, experiments and open-source.
+> 🏢 **My current enterprise work lives in private GitLab repos** (dsm-firmenich / FarmTell Beef) — as expected for company code. This GitHub is my public & side projects; **full career history on [LinkedIn](https://www.linkedin.com/in/sandiml/)**.
 
 ### 🧩 What I Solve
 - **Complex regressions across concurrent versions** — root-caused through git history (pickaxe / blame) and schema diffing, not guesswork.
