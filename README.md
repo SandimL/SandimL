@@ -1,5 +1,5 @@
 # Lucas Sandim
-### Full-Stack Developer — I solve hard problems in large enterprise systems
+### Full-Stack Developer — turning legacy enterprise systems into modern, shipping software
 
 <img align='right' src="https://i.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.webp" width="240">
 
