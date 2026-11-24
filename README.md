@@ -35,7 +35,7 @@ const lucasSandim = {
     devops:       ["GitLab CI/CD", "Docker", "Proxmox", "Caddy", "Cloudflare Tunnel"],
     messaging:    ["RabbitMQ", "EMQX / MQTT", "Socket.IO"],
     practices:    ["TDD / NUnit", "Automation", "AI-assisted delivery"],
-    focus:        ["AgTech / enterprise ERP", "Microservices modernization", "Cross-version regression hunting"]
+    focus:        ["AgTech / enterprise ERP", "Microservices & legacy modernization", "DevOps & automation"]
 };
 ```
 
