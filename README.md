@@ -29,7 +29,7 @@ Modernizing the **`core`** of **FarmTell Beef**, a beef-cattle management platfo
 **Also:** SQL Server · WPF / XAML · REST / OpenAPI · RabbitMQ · EMQX (MQTT) · Socket.IO · Proxmox · Caddy · Clean Architecture · SOLID · TDD (NUnit)
 
 ### 🏠 Homelab — infrastructure, hands-on
-I run a **[self-hosted home server](https://github.com/SandimL/home-server)**: **Proxmox VE** + Debian with **~20 Docker containers** (Caddy reverse proxy, Cloudflare Tunnel, PostgreSQL / Redis / RabbitMQ, EMQX MQTT, Home Assistant, Netdata) behind an OpenWRT router — the same stack I ship with at work, deployed and operated end-to-end.
+I run a **[self-hosted home server](https://github.com/SandimL/home-server)**: **Proxmox VE** + Debian with **~20 Docker containers** (Caddy reverse proxy, Cloudflare Tunnel, PostgreSQL / Redis / RabbitMQ, EMQX MQTT, Home Assistant, Netdata) behind an OpenWRT router — where I deploy and operate my own full-stack apps end-to-end.
 
 ### 🌟 Selected Work
 - **[TherapyFlow](https://therapyflow.com.br)** — built and run a clinical-management platform for healthcare professionals *(HealthTech SaaS)*.
